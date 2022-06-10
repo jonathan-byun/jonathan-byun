@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 :)
 
-<!--
-**jonathan-byun/jonathan-byun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-byun)](https://github.com/jonathan-byun/github-readme-stats&theme=dark)
+- :thought_balloon: Currently working on - Social media clone applications
+- :green_book: Stack - React, JavaScript, CSS3, HTML5, Node.js, Express
+- :wrench: Tools - Bootstrap, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack
+- :pencil: Always learning and improving
 
-Here are some ideas to get you started:
+## About Me
+My name is Jonathan and I'm a developer. I work in React, JavaScript, CSS, and Node.js - but I am always interested in learning new concepts and bettering my ideas. :simple_smile:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Music :arrow_right: Healthcare :arrow_right: Web Development
+
+:arrow_up: Always happy to share my story
+
+## :incoming_envelope: Connect with me!
+- [LinkedIn](https://www.linkedin.com/in/jonathan-byun/)
+- [GitHub](https://github.com/jonathan-byun)
