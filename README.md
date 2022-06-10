@@ -15,4 +15,3 @@ Music :arrow_right: Healthcare :arrow_right: Web Development
 
 ## :incoming_envelope: Connect with me!
 - [LinkedIn](https://www.linkedin.com/in/jonathan-byun/)
-- [GitHub](https://github.com/jonathan-byun)
