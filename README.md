@@ -1,4 +1,4 @@
-### Hi there 👋 :)
+### Hi there 👋 
 
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-byun)](https://github.com/jonathan-byun/github-readme-stats&theme=dark)
 - :thought_balloon: Currently working on - Social media clone applications
