@@ -7,7 +7,7 @@
 - :pencil: Always learning and improving
 
 ## About Me
-My name is Jonathan and I'm a developer. I work in React, JavaScript, CSS, and Node.js - but I am always interested in learning new concepts and bettering my ideas. :simple_smile:
+My name is Jonathan and I'm a developer. I work in React, JavaScript, CSS, and Node.js - but I am always interested in learning new concepts and bettering my ideas. :)
 
 Music :arrow_right: Healthcare :arrow_right: Web Development
 
