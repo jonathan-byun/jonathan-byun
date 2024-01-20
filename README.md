@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-byun)](https://github.com/jonathan-byun/github-readme-stats&theme=dark)
-- :thought_balloon: Currently working on - Social media clone applications
-- :green_book: Stack - React, JavaScript, CSS3, HTML5, Node.js, Express
+- :thought_balloon: Currently working on - Roguelike card-game with random map generation.
+- :green_book: Stack -NextJS, Vite, React, JavaScript, CSS3, HTML5, Node.js, Express
 - :wrench: Tools - Bootstrap, npm, PostgreSQL, Babel, Webpack, Git, GitHub, Slack
 - :pencil: Always learning and improving
 
